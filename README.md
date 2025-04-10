@@ -1,3 +1,27 @@
+<b>Created the Dynamic Linkedin NavBar using Recoil  <br><b>
+-Network <br>
+-Jobs <br>
+-Messagging <br>
+-Notification - [if exceeds from 100 it will show 99+) <br>
+-Me <br>
+
+
+#RECOIL <br>
+-Probably Wondering what is RECOIL - I got you covered :- it is a library in REACT that manages the STATE (i can say ki ... STATE MANAGEMENT library)<br>
+takes away the unnecsaay rerenders
+<br>
+-U see up the (network, jobs, me, noti..etc) are nothing but atoms defined by the key and the intial values <br>
+
+#used 3 recoil hooks
+<br>
+-RecoilRoot
+<br>
+-useRecoilValue
+<br>
+-useRecoilState
+
+
+
 #Challenges <br>
 -version of react recoil require previous version of the react  <br>
 -it takes unnecessary rerenders away<br>
