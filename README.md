@@ -1,12 +1,18 @@
-# React + Vite
+#Challenges
+-version of react recoil require previous version of the react 
+-it takes unnecessary rerenders away
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#overcome
+-dropped down the version of the react from 19 to 18
+(it perfectly works with the react 18)
+-used atoms atoms : - Atoms are like unit , i can say ki bro its a Mini data storeerrrr
+-its work is automatically rerenders when it is necessary or when its value changes 
+#and thats how it overcomes the unnecessary rerenders
+#speed
+#performance
+#flex
+#good under the it works as a call back
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#now SELECTORSSSS
+key 
+get value 
